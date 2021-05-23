@@ -1,11 +1,11 @@
 # toy-shell
 project #1 homework(Shell)
 
--> Coded on Ubuntu 20.04
--> 'host name' and ' user name' colors are Blue("\033 34m") and CYAN("\033 35m")
--> exit[0] and [1] will exit in Myshell 
--> and support command line arguments
--> uses cd(chdir), pwd, ls, mkdir for this shell
+-> Coded on Ubuntu 20.04  
+-> 'host name' and ' user name' colors are Blue("\033 34m") and CYAN("\033 35m")  
+-> exit[0] and [1] will exit in Myshell   
+-> and support command line arguments  
+-> uses cd(chdir), pwd, ls, mkdir for this shell  
 
 # Support command line arguments
 
